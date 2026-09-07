@@ -1,0 +1,25 @@
+company_id,subscription_id,health_score,health_status,usage_score,onboarding_score,support_score,renewal_score,days_to_renewal,reason,company_name,segment,city
+co_0063,sub_0001,95.0,Healthy,35.0,20.0,20,20,301,Healthy: stable usage and limited open risk signals,Shapla Logistics 63,Courier,Sylhet
+co_0080,sub_0002,78.8,Healthy,22.6,16.2,20,20,326,Healthy: stable usage and limited open risk signals,Nexa Courier 80,3PL,Gazipur
+co_0049,sub_0003,76.3,Healthy,29.0,16.2,11,20,344,Healthy: 1 open support ticket(s),Meghna Express 49,E-commerce Fulfilment,Dhaka
+co_0001,sub_0004,74.2,Needs Attention,18.0,16.2,20,20,439,Needs Attention: usage declined versus prior months,Meghna Courier 1,3PL,Cumilla
+co_0060,sub_0005,66.2,Needs Attention,35.0,11.2,0,20,390,Needs Attention: 3 open support ticket(s),Anchor Fulfilment 60,3PL,Rajshahi
+co_0056,sub_0006,91.7,Healthy,26.7,25.0,20,20,398,Healthy: stable usage and limited open risk signals,Meghna Logistics 56,E-commerce Fulfilment,Dhaka
+co_0065,sub_0007,60.4,At Risk,4.2,16.2,20,20,400,At Risk: usage declined versus prior months,Tiger Courier 65,Courier,Sylhet
+co_0077,sub_0008,87.7,Healthy,27.7,20.0,20,20,287,Healthy: stable usage and limited open risk signals,Rapid Fulfilment 77,3PL,Gazipur
+co_0049,sub_0009,76.3,Healthy,29.0,16.2,11,20,265,Healthy: 1 open support ticket(s),Meghna Express 49,E-commerce Fulfilment,Dhaka
+co_0018,sub_0010,82.2,Healthy,35.0,16.2,11,20,173,Healthy: 1 open support ticket(s),Rapid Distribution 18,3PL,Narayanganj
+co_0033,sub_0011,91.0,Healthy,31.0,20.0,20,20,238,Healthy: stable usage and limited open risk signals,Anchor Logistics 33,3PL,Rajshahi
+co_0014,sub_0012,70.4,Needs Attention,27.2,11.2,12,20,313,Needs Attention: 2 open support ticket(s),Nexa Express 14,Pharma Distribution,Sylhet
+co_0047,sub_0013,79.2,Healthy,35.0,16.2,8,20,204,Healthy: 3 open support ticket(s),Rapid Courier 47,Cold Chain,Gazipur
+co_0047,sub_0014,79.2,Healthy,35.0,16.2,8,20,213,Healthy: 3 open support ticket(s),Rapid Courier 47,Cold Chain,Gazipur
+co_0001,sub_0015,74.2,Needs Attention,18.0,16.2,20,20,432,Needs Attention: usage declined versus prior months,Meghna Courier 1,3PL,Cumilla
+co_0074,sub_0016,74.0,Needs Attention,29.0,5.0,20,20,170,Needs Attention: stable usage and limited open risk signals,Nexa Distribution 74,Retail Distribution,Khulna
+co_0065,sub_0017,60.4,At Risk,4.2,16.2,20,20,366,At Risk: usage declined versus prior months,Tiger Courier 65,Courier,Sylhet
+co_0044,sub_0018,90.4,Healthy,30.4,20.0,20,20,333,Healthy: stable usage and limited open risk signals,Anchor Supply 44,Pharma Distribution,Gazipur
+co_0043,sub_0019,90.3,Healthy,25.3,25.0,20,20,233,Healthy: stable usage and limited open risk signals,Rapid Fulfilment 43,Retail Distribution,Narayanganj
+co_0018,sub_0020,82.2,Healthy,35.0,16.2,11,20,188,Healthy: 1 open support ticket(s),Rapid Distribution 18,3PL,Narayanganj
+co_0070,sub_0021,82.0,Healthy,17.0,25.0,20,20,356,Healthy: usage declined versus prior months,Meghna Distribution 70,Cold Chain,Dhaka
+co_0072,sub_0022,78.4,Healthy,22.4,25.0,11,20,372,Healthy: 1 open support ticket(s),Jamuna Logistics 72,Courier,Cumilla
+co_0044,sub_0023,90.4,Healthy,30.4,20.0,20,20,216,Healthy: stable usage and limited open risk signals,Anchor Supply 44,Pharma Distribution,Gazipur
+co_0063,sub_0024,95.0,Healthy,35.0,20.0,20,20,366,Healthy: stable usage and limited open risk signals,Shapla Logistics 63,Courier,Sylhet

@@ -1,0 +1,349 @@
+activity_id,company_id,contact_id,deal_id,activity_type,activity_date,outcome,owner_id
+act_0001,co_0075,ct_0141,deal_0001,Email,2026-06-08,No response,own_002
+act_0002,co_0075,ct_0140,deal_0001,Call,2026-06-12,No response,own_002
+act_0003,co_0075,ct_0141,deal_0001,Task,2026-08-12,Rescheduled,own_002
+act_0004,co_0065,ct_0119,deal_0002,Email,2026-09-11,Follow-up needed,own_001
+act_0005,co_0065,ct_0119,deal_0002,Demo,2026-07-12,Completed,own_001
+act_0006,co_0063,ct_0117,deal_0003,Task,2026-08-02,Completed,
+act_0007,co_0063,ct_0117,deal_0003,Email,2026-06-10,No response,
+act_0008,co_0063,ct_0117,deal_0003,Email,2026-07-16,Follow-up needed,
+act_0009,co_0063,ct_0117,deal_0003,Email,2026-07-16,Completed,
+act_0010,co_0063,ct_0117,deal_0003,Call,2026-07-05,Completed,
+act_0011,co_0063,ct_0117,deal_0003,Email,2026-08-16,Rescheduled,
+act_0012,co_0019,ct_0036,deal_0004,Email,2026-06-02,Rescheduled,own_001
+act_0013,co_0019,ct_0037,deal_0004,Email,2026-06-01,Rescheduled,own_001
+act_0014,co_0019,ct_0036,deal_0004,Demo,2026-06-20,Completed,own_001
+act_0015,co_0019,ct_0036,deal_0004,Email,2026-06-08,Completed,own_001
+act_0016,co_0019,ct_0037,deal_0004,Email,2026-07-04,Completed,own_001
+act_0017,co_0078,ct_0147,deal_0005,Call,2026-08-18,Positive,
+act_0018,co_0078,ct_0148,deal_0005,Call,2026-08-22,Completed,
+act_0019,co_0080,ct_0151,deal_0006,Task,2026-05-31,Completed,own_002
+act_0020,co_0080,ct_0151,deal_0006,Email,2026-05-15,Positive,own_002
+act_0021,co_0048,ct_0091,deal_0007,Call,2026-03-25,Completed,
+act_0022,co_0048,ct_0090,deal_0007,Task,2026-04-14,Rescheduled,
+act_0023,co_0048,ct_0091,deal_0007,Task,2026-05-26,Follow-up needed,
+act_0024,co_0048,ct_0090,deal_0007,Meeting,2026-04-15,Positive,
+act_0025,co_0048,ct_0091,deal_0007,Meeting,2026-03-27,Completed,
+act_0026,co_0048,ct_0090,deal_0007,Task,2026-04-21,Follow-up needed,
+act_0027,co_0049,ct_0092,deal_0008,Meeting,2026-09-11,No response,
+act_0028,co_0049,ct_0093,deal_0008,Email,2026-07-09,Completed,
+act_0029,co_0001,ct_0001,deal_0009,Email,2026-11-09,Positive,own_001
+act_0030,co_0001,ct_0001,deal_0009,Email,2026-11-23,Completed,own_001
+act_0031,co_0001,ct_0001,deal_0009,Email,2026-10-05,Completed,own_001
+act_0032,co_0003,ct_0004,deal_0010,Email,2026-05-08,Rescheduled,own_002
+act_0033,co_0003,ct_0005,deal_0010,Demo,2026-05-08,Follow-up needed,own_002
+act_0034,co_0003,ct_0004,deal_0010,Email,2026-04-16,No response,own_002
+act_0035,co_0003,ct_0005,deal_0010,Task,2026-05-27,Completed,own_002
+act_0036,co_0003,ct_0005,deal_0010,Demo,2026-06-01,No response,own_002
+act_0037,co_0027,ct_0052,deal_0011,Demo,2026-05-11,Completed,
+act_0038,co_0027,ct_0052,deal_0011,Meeting,2026-05-29,Positive,
+act_0039,co_0027,ct_0052,deal_0011,Email,2026-05-18,Positive,
+act_0040,co_0018,ct_0035,deal_0012,Call,2026-04-09,Completed,own_001
+act_0041,co_0018,ct_0035,deal_0012,Meeting,2026-03-18,No response,own_001
+act_0042,co_0067,ct_0123,deal_0013,Demo,2026-04-10,Completed,own_001
+act_0043,co_0067,ct_0122,deal_0013,Demo,2026-04-15,Completed,own_001
+act_0044,co_0067,ct_0123,deal_0013,Email,2026-03-18,Rescheduled,own_001
+act_0045,co_0067,ct_0124,deal_0013,Email,2026-04-01,Positive,own_001
+act_0046,co_0067,ct_0123,deal_0013,Task,2026-05-20,Completed,own_001
+act_0047,co_0046,ct_0086,deal_0014,Demo,2026-06-08,Rescheduled,own_001
+act_0048,co_0046,ct_0086,deal_0014,Task,2026-05-13,Follow-up needed,own_001
+act_0049,co_0046,ct_0086,deal_0014,Demo,2026-07-21,Completed,own_001
+act_0050,co_0046,ct_0086,deal_0014,Call,2026-07-05,Follow-up needed,own_001
+act_0051,co_0046,ct_0086,deal_0014,Meeting,2026-05-18,Completed,own_001
+act_0052,co_0046,ct_0087,deal_0014,Meeting,2026-07-22,Completed,own_001
+act_0053,co_0070,ct_0130,deal_0015,Email,2026-06-05,Completed,own_002
+act_0054,co_0070,ct_0130,deal_0015,Email,2026-04-29,Rescheduled,own_002
+act_0055,co_0070,ct_0131,deal_0015,Task,2026-05-03,Follow-up needed,own_002
+act_0056,co_0070,ct_0130,deal_0015,Call,2026-05-15,Follow-up needed,own_002
+act_0057,co_0070,ct_0130,deal_0015,Email,2026-06-04,Completed,own_002
+act_0058,co_0060,ct_0112,deal_0016,Email,2026-09-01,Completed,own_001
+act_0059,co_0060,ct_0112,deal_0016,Demo,2026-09-14,Completed,own_001
+act_0060,co_0060,ct_0112,deal_0016,Meeting,2026-10-20,No response,own_001
+act_0061,co_0060,ct_0112,deal_0016,Email,2026-09-02,Positive,own_001
+act_0062,co_0060,ct_0112,deal_0016,Demo,2026-09-16,Positive,own_001
+act_0063,co_0046,ct_0087,deal_0017,Call,2026-07-25,Follow-up needed,own_001
+act_0064,co_0046,ct_0086,deal_0017,Meeting,2026-06-14,No response,own_001
+act_0065,co_0046,ct_0086,deal_0017,Call,2026-06-19,Positive,own_001
+act_0066,co_0046,ct_0087,deal_0018,Demo,2026-07-29,Positive,own_001
+act_0067,co_0046,ct_0086,deal_0018,Meeting,2026-06-02,Positive,own_001
+act_0068,co_0046,ct_0086,deal_0018,Email,2026-07-30,Completed,own_001
+act_0069,co_0046,ct_0087,deal_0018,Demo,2026-06-14,Rescheduled,own_001
+act_0070,co_0046,ct_0086,deal_0018,Call,2026-07-19,No response,own_001
+act_0071,co_0044,ct_0083,deal_0019,Call,2026-08-20,Rescheduled,own_002
+act_0072,co_0044,ct_0083,deal_0019,Email,2026-08-18,Completed,own_002
+act_0073,co_0056,ct_0104,deal_0020,Email,2026-10-29,Follow-up needed,
+act_0074,co_0056,ct_0104,deal_0020,Email,2026-09-21,No response,
+act_0075,co_0056,ct_0105,deal_0020,Meeting,2026-10-20,Positive,
+act_0076,co_0056,ct_0104,deal_0020,Meeting,2026-10-27,Positive,
+act_0077,co_0065,ct_0119,deal_0021,Task,2026-08-04,Positive,own_001
+act_0078,co_0065,ct_0119,deal_0021,Call,2026-08-20,No response,own_001
+act_0079,co_0065,ct_0119,deal_0021,Task,2026-09-20,Positive,own_001
+act_0080,co_0005,ct_0010,deal_0022,Call,2026-09-05,Completed,own_002
+act_0081,co_0005,ct_0011,deal_0022,Meeting,2026-09-03,Completed,own_002
+act_0082,co_0005,ct_0011,deal_0022,Meeting,2026-09-17,Completed,own_002
+act_0083,co_0005,ct_0009,deal_0022,Task,2026-08-16,Positive,own_002
+act_0084,co_0005,ct_0010,deal_0022,Call,2026-09-22,Completed,own_002
+act_0085,co_0044,ct_0083,deal_0023,Call,2026-03-21,No response,own_001
+act_0086,co_0044,ct_0083,deal_0023,Demo,2026-03-20,No response,own_001
+act_0087,co_0044,ct_0083,deal_0023,Task,2026-04-07,No response,own_001
+act_0088,co_0078,ct_0147,deal_0024,Call,2026-09-15,Completed,own_001
+act_0089,co_0078,ct_0146,deal_0024,Meeting,2026-10-05,Completed,own_001
+act_0090,co_0078,ct_0148,deal_0024,Email,2026-09-30,Completed,own_001
+act_0091,co_0078,ct_0148,deal_0024,Task,2026-11-12,Completed,own_001
+act_0092,co_0078,ct_0148,deal_0024,Call,2026-11-04,No response,own_001
+act_0093,co_0037,ct_0073,deal_0025,Demo,2026-12-11,No response,own_002
+act_0094,co_0037,ct_0072,deal_0025,Email,2026-12-08,Completed,own_002
+act_0095,co_0037,ct_0072,deal_0025,Email,2026-10-11,Follow-up needed,own_002
+act_0096,co_0050,ct_0094,deal_0026,Email,2026-09-12,No response,
+act_0097,co_0050,ct_0094,deal_0026,Demo,2026-08-05,Completed,
+act_0098,co_0050,ct_0094,deal_0026,Email,2026-10-04,Completed,
+act_0099,co_0050,ct_0094,deal_0026,Email,2026-08-10,No response,
+act_0100,co_0050,ct_0094,deal_0026,Email,2026-08-23,Follow-up needed,
+act_0101,co_0050,ct_0094,deal_0026,Call,2026-10-02,Positive,
+act_0102,co_0075,ct_0141,deal_0027,Email,2026-08-18,Completed,own_002
+act_0103,co_0075,ct_0141,deal_0027,Call,2026-08-29,Follow-up needed,own_002
+act_0104,co_0075,ct_0140,deal_0027,Meeting,2026-08-30,No response,own_002
+act_0105,co_0075,ct_0141,deal_0027,Email,2026-09-15,Completed,own_002
+act_0106,co_0075,ct_0141,deal_0027,Email,2026-08-10,Positive,own_002
+act_0107,co_0029,ct_0055,deal_0028,Call,2026-09-01,No response,own_001
+act_0108,co_0029,ct_0054,deal_0028,Email,2026-09-14,Completed,own_001
+act_0109,co_0029,ct_0055,deal_0028,Email,2026-08-20,No response,own_001
+act_0110,co_0029,ct_0055,deal_0028,Task,2026-07-24,Positive,own_001
+act_0111,co_0029,ct_0055,deal_0028,Meeting,2026-08-14,Rescheduled,own_001
+act_0112,co_0018,ct_0035,deal_0029,Email,2026-07-15,Positive,own_002
+act_0113,co_0075,ct_0141,deal_0030,Email,2026-06-10,Completed,own_002
+act_0114,co_0004,ct_0007,deal_0031,Call,2026-08-28,Follow-up needed,own_001
+act_0115,co_0004,ct_0006,deal_0031,Call,2026-08-08,Rescheduled,own_001
+act_0116,co_0004,ct_0006,deal_0031,Email,2026-08-25,Rescheduled,own_001
+act_0117,co_0018,ct_0035,deal_0032,Call,2026-09-13,Positive,
+act_0118,co_0037,ct_0073,deal_0033,Demo,2026-11-01,Follow-up needed,own_002
+act_0119,co_0037,ct_0072,deal_0033,Call,2026-09-30,Follow-up needed,own_002
+act_0120,co_0037,ct_0072,deal_0033,Demo,2026-09-04,Follow-up needed,own_002
+act_0121,co_0043,ct_0080,deal_0034,Meeting,2026-02-26,Positive,
+act_0122,co_0043,ct_0082,deal_0034,Email,2026-03-27,Positive,
+act_0123,co_0043,ct_0082,deal_0034,Call,2026-03-20,Completed,
+act_0124,co_0018,ct_0035,deal_0035,Meeting,2026-02-16,Positive,own_001
+act_0125,co_0018,ct_0035,deal_0035,Meeting,2026-01-29,No response,own_001
+act_0126,co_0018,ct_0035,deal_0035,Email,2026-02-19,Completed,own_001
+act_0127,co_0012,ct_0024,deal_0036,Email,2026-05-24,No response,
+act_0128,co_0012,ct_0024,deal_0036,Demo,2026-06-10,Follow-up needed,
+act_0129,co_0012,ct_0023,deal_0036,Meeting,2026-07-06,Positive,
+act_0130,co_0012,ct_0023,deal_0036,Meeting,2026-05-25,Follow-up needed,
+act_0131,co_0044,ct_0083,deal_0037,Task,2026-04-06,Completed,own_001
+act_0132,co_0039,ct_0075,deal_0038,Call,2026-07-24,Follow-up needed,own_002
+act_0133,co_0039,ct_0075,deal_0038,Task,2026-07-30,No response,own_002
+act_0134,co_0020,ct_0038,deal_0039,Email,2026-03-22,Rescheduled,
+act_0135,co_0020,ct_0039,deal_0039,Task,2026-03-15,Rescheduled,
+act_0136,co_0020,ct_0039,deal_0039,Demo,2026-04-05,Completed,
+act_0137,co_0020,ct_0039,deal_0039,Demo,2026-04-08,Completed,
+act_0138,co_0020,ct_0038,deal_0039,Email,2026-04-17,Completed,
+act_0139,co_0020,ct_0038,deal_0039,Meeting,2026-03-09,Completed,
+act_0140,co_0077,ct_0144,deal_0040,Email,2026-05-01,Follow-up needed,own_002
+act_0141,co_0077,ct_0144,deal_0040,Task,2026-04-20,Completed,own_002
+act_0142,co_0077,ct_0145,deal_0040,Meeting,2026-05-13,Completed,own_002
+act_0143,co_0077,ct_0144,deal_0040,Email,2026-05-09,Completed,own_002
+act_0144,co_0077,ct_0144,deal_0040,Email,2026-05-07,Completed,own_002
+act_0145,co_0039,ct_0075,deal_0041,Email,2026-05-08,Follow-up needed,own_002
+act_0146,co_0039,ct_0075,deal_0041,Call,2026-04-15,Completed,own_002
+act_0147,co_0059,ct_0111,deal_0042,Email,2026-06-03,Positive,
+act_0148,co_0071,ct_0132,deal_0043,Meeting,2026-09-13,Positive,own_002
+act_0149,co_0038,ct_0074,deal_0044,Email,2026-02-20,Completed,own_002
+act_0150,co_0038,ct_0074,deal_0044,Call,2026-04-05,No response,own_002
+act_0151,co_0038,ct_0074,deal_0044,Meeting,2026-01-30,Completed,own_002
+act_0152,co_0049,ct_0092,deal_0045,Demo,2026-05-02,No response,
+act_0153,co_0018,ct_0035,deal_0046,Email,2026-02-21,No response,own_002
+act_0154,co_0018,ct_0035,deal_0046,Task,2026-03-27,Positive,own_002
+act_0155,co_0018,ct_0035,deal_0047,Call,2026-02-17,Positive,own_002
+act_0156,co_0018,ct_0035,deal_0047,Meeting,2026-04-06,No response,own_002
+act_0157,co_0018,ct_0035,deal_0047,Task,2026-01-25,Rescheduled,own_002
+act_0158,co_0018,ct_0035,deal_0047,Email,2026-04-05,Rescheduled,own_002
+act_0159,co_0018,ct_0035,deal_0047,Email,2026-03-06,Positive,own_002
+act_0160,co_0018,ct_0035,deal_0047,Demo,2026-01-30,Follow-up needed,own_002
+act_0161,co_0067,ct_0123,deal_0048,Email,2026-04-13,Completed,own_001
+act_0162,co_0067,ct_0124,deal_0048,Task,2026-03-17,Rescheduled,own_001
+act_0163,co_0067,ct_0123,deal_0048,Email,2026-05-17,Follow-up needed,own_001
+act_0164,co_0067,ct_0124,deal_0048,Call,2026-05-13,Follow-up needed,own_001
+act_0165,co_0062,ct_0115,deal_0049,Call,2026-06-18,Positive,
+act_0166,co_0018,ct_0035,deal_0050,Email,2026-06-20,No response,own_002
+act_0167,co_0018,ct_0035,deal_0050,Meeting,2026-08-04,Positive,own_002
+act_0168,co_0018,ct_0035,deal_0050,Demo,2026-05-30,Follow-up needed,own_002
+act_0169,co_0018,ct_0035,deal_0050,Meeting,2026-05-30,No response,own_002
+act_0170,co_0018,ct_0035,deal_0050,Task,2026-07-07,Completed,own_002
+act_0171,co_0056,ct_0105,deal_0051,Email,2026-07-03,No response,own_002
+act_0172,co_0056,ct_0105,deal_0051,Email,2026-07-30,Completed,own_002
+act_0173,co_0071,ct_0133,deal_0052,Meeting,2026-08-31,Positive,own_001
+act_0174,co_0071,ct_0133,deal_0052,Call,2026-09-13,Positive,own_001
+act_0175,co_0071,ct_0133,deal_0052,Meeting,2026-10-09,Follow-up needed,own_001
+act_0176,co_0071,ct_0132,deal_0052,Meeting,2026-09-14,Completed,own_001
+act_0177,co_0047,ct_0088,deal_0053,Call,2026-04-01,Follow-up needed,own_001
+act_0178,co_0047,ct_0089,deal_0053,Demo,2026-02-25,Completed,own_001
+act_0179,co_0047,ct_0088,deal_0053,Email,2026-04-04,Positive,own_001
+act_0180,co_0047,ct_0089,deal_0053,Task,2026-02-06,Completed,own_001
+act_0181,co_0047,ct_0088,deal_0053,Email,2026-03-20,Completed,own_001
+act_0182,co_0047,ct_0089,deal_0053,Email,2026-02-23,Follow-up needed,own_001
+act_0183,co_0070,ct_0131,deal_0054,Meeting,2026-09-20,Follow-up needed,
+act_0184,co_0070,ct_0131,deal_0054,Email,2026-08-28,Positive,
+act_0185,co_0070,ct_0130,deal_0054,Task,2026-08-27,Completed,
+act_0186,co_0070,ct_0130,deal_0054,Task,2026-10-02,Completed,
+act_0187,co_0070,ct_0131,deal_0054,Email,2026-08-16,No response,
+act_0188,co_0070,ct_0130,deal_0054,Email,2026-10-27,Completed,
+act_0189,co_0018,ct_0035,deal_0055,Email,2026-08-08,Follow-up needed,
+act_0190,co_0076,ct_0142,deal_0056,Task,2026-05-19,Rescheduled,own_001
+act_0191,co_0076,ct_0142,deal_0056,Meeting,2026-05-25,Completed,own_001
+act_0192,co_0076,ct_0142,deal_0056,Call,2026-04-02,Completed,own_001
+act_0193,co_0076,ct_0142,deal_0056,Email,2026-05-01,No response,own_001
+act_0194,co_0033,ct_0064,deal_0057,Task,2026-06-20,Completed,own_002
+act_0195,co_0033,ct_0064,deal_0057,Email,2026-05-20,Follow-up needed,own_002
+act_0196,co_0033,ct_0064,deal_0057,Call,2026-04-23,Positive,own_002
+act_0197,co_0033,ct_0062,deal_0057,Email,2026-06-04,Completed,own_002
+act_0198,co_0062,ct_0116,deal_0058,Email,2026-07-26,Completed,
+act_0199,co_0062,ct_0115,deal_0058,Email,2026-05-24,Follow-up needed,
+act_0200,co_0062,ct_0116,deal_0058,Email,2026-07-21,Follow-up needed,
+act_0201,co_0062,ct_0116,deal_0058,Call,2026-05-29,Completed,
+act_0202,co_0062,ct_0115,deal_0058,Task,2026-06-01,Follow-up needed,
+act_0203,co_0033,ct_0063,deal_0059,Demo,2026-04-24,Rescheduled,own_001
+act_0204,co_0033,ct_0064,deal_0059,Call,2026-04-24,No response,own_001
+act_0205,co_0014,ct_0028,deal_0060,Task,2026-07-11,Positive,own_001
+act_0206,co_0047,ct_0088,deal_0061,Email,2026-02-18,No response,own_001
+act_0207,co_0047,ct_0089,deal_0061,Task,2026-03-05,Completed,own_001
+act_0208,co_0047,ct_0088,deal_0061,Meeting,2026-03-17,No response,own_001
+act_0209,co_0047,ct_0089,deal_0061,Email,2026-02-16,Follow-up needed,own_001
+act_0210,co_0075,ct_0140,deal_0062,Meeting,2026-06-12,Completed,own_002
+act_0211,co_0037,ct_0072,deal_0063,Email,2026-10-18,Completed,own_002
+act_0212,co_0037,ct_0072,deal_0063,Call,2026-11-16,Follow-up needed,own_002
+act_0213,co_0037,ct_0072,deal_0063,Task,2026-11-11,Completed,own_002
+act_0214,co_0037,ct_0072,deal_0063,Email,2026-12-22,Rescheduled,own_002
+act_0215,co_0037,ct_0072,deal_0063,Call,2026-10-30,Positive,own_002
+act_0216,co_0039,ct_0075,deal_0064,Email,2026-08-31,Rescheduled,own_002
+act_0217,co_0039,ct_0075,deal_0064,Call,2026-10-15,Follow-up needed,own_002
+act_0218,co_0039,ct_0075,deal_0064,Call,2026-08-07,No response,own_002
+act_0219,co_0039,ct_0075,deal_0064,Email,2026-10-07,Completed,own_002
+act_0220,co_0039,ct_0075,deal_0064,Call,2026-08-30,No response,own_002
+act_0221,co_0039,ct_0075,deal_0064,Task,2026-09-10,Follow-up needed,own_002
+act_0222,co_0048,ct_0091,deal_0065,Email,2026-06-28,No response,own_002
+act_0223,co_0053,ct_0097,deal_0066,Demo,2026-05-15,Positive,own_001
+act_0224,co_0053,ct_0097,deal_0066,Email,2026-06-04,Rescheduled,own_001
+act_0225,co_0053,ct_0097,deal_0066,Call,2026-06-13,Completed,own_001
+act_0226,co_0053,ct_0097,deal_0066,Email,2026-07-02,Completed,own_001
+act_0227,co_0018,ct_0035,deal_0067,Task,2026-06-28,Positive,own_002
+act_0228,co_0018,ct_0035,deal_0067,Meeting,2026-07-15,Positive,own_002
+act_0229,co_0059,ct_0110,deal_0068,Email,2026-04-02,No response,own_001
+act_0230,co_0059,ct_0109,deal_0068,Task,2026-02-27,No response,own_001
+act_0231,co_0059,ct_0110,deal_0068,Task,2026-03-29,Completed,own_001
+act_0232,co_0059,ct_0110,deal_0068,Email,2026-02-22,Completed,own_001
+act_0233,co_0019,ct_0037,deal_0069,Demo,2026-07-27,Completed,own_002
+act_0234,co_0019,ct_0037,deal_0069,Meeting,2026-07-01,Rescheduled,own_002
+act_0235,co_0019,ct_0036,deal_0069,Meeting,2026-08-21,Follow-up needed,own_002
+act_0236,co_0047,ct_0088,deal_0070,Task,2026-03-07,No response,own_001
+act_0237,co_0047,ct_0089,deal_0070,Email,2026-04-13,Positive,own_001
+act_0238,co_0047,ct_0089,deal_0071,Meeting,2026-03-29,No response,
+act_0239,co_0047,ct_0088,deal_0071,Email,2026-03-28,Rescheduled,
+act_0240,co_0047,ct_0088,deal_0071,Email,2026-04-22,Positive,
+act_0241,co_0047,ct_0088,deal_0071,Email,2026-03-01,Completed,
+act_0242,co_0047,ct_0088,deal_0071,Email,2026-03-12,Positive,
+act_0243,co_0018,ct_0035,deal_0072,Demo,2026-03-23,Completed,own_001
+act_0244,co_0018,ct_0035,deal_0072,Call,2026-03-14,Completed,own_001
+act_0245,co_0018,ct_0035,deal_0072,Demo,2026-04-28,Completed,own_001
+act_0246,co_0018,ct_0035,deal_0072,Email,2026-03-19,No response,own_001
+act_0247,co_0018,ct_0035,deal_0072,Meeting,2026-04-22,No response,own_001
+act_0248,co_0018,ct_0035,deal_0072,Demo,2026-04-13,Completed,own_001
+act_0249,co_0074,ct_0139,deal_0073,Demo,2026-11-16,Follow-up needed,
+act_0250,co_0074,ct_0139,deal_0073,Task,2026-10-22,Rescheduled,
+act_0251,co_0074,ct_0137,deal_0073,Email,2026-11-08,Rescheduled,
+act_0252,co_0074,ct_0137,deal_0073,Meeting,2026-10-07,Completed,
+act_0253,co_0056,ct_0105,deal_0074,Demo,2026-08-06,Positive,own_002
+act_0254,co_0056,ct_0105,deal_0074,Call,2026-08-01,Follow-up needed,own_002
+act_0255,co_0001,ct_0001,deal_0075,Email,2026-11-14,Completed,own_001
+act_0256,co_0001,ct_0001,deal_0075,Demo,2026-10-30,No response,own_001
+act_0257,co_0030,ct_0056,deal_0076,Email,2026-09-19,No response,own_001
+act_0258,co_0030,ct_0056,deal_0076,Email,2026-08-07,Completed,own_001
+act_0259,co_0030,ct_0056,deal_0076,Demo,2026-09-06,Positive,own_001
+act_0260,co_0030,ct_0056,deal_0076,Email,2026-08-17,Positive,own_001
+act_0261,co_0074,ct_0137,deal_0077,Meeting,2026-02-10,Positive,own_001
+act_0262,co_0074,ct_0139,deal_0077,Call,2026-03-26,Completed,own_001
+act_0263,co_0074,ct_0139,deal_0077,Email,2026-03-22,Positive,own_001
+act_0264,co_0074,ct_0138,deal_0077,Email,2026-02-08,Completed,own_001
+act_0265,co_0074,ct_0137,deal_0077,Demo,2026-04-14,Completed,own_001
+act_0266,co_0074,ct_0137,deal_0077,Email,2026-04-14,Follow-up needed,own_001
+act_0267,co_0056,ct_0105,deal_0078,Task,2026-08-12,Rescheduled,own_002
+act_0268,co_0056,ct_0105,deal_0078,Call,2026-07-08,Positive,own_002
+act_0269,co_0056,ct_0104,deal_0078,Call,2026-07-20,Follow-up needed,own_002
+act_0270,co_0056,ct_0104,deal_0078,Call,2026-06-08,Completed,own_002
+act_0271,co_0056,ct_0104,deal_0078,Email,2026-07-31,Rescheduled,own_002
+act_0272,co_0047,ct_0088,deal_0079,Meeting,2026-04-10,Completed,
+act_0273,co_0047,ct_0088,deal_0079,Email,2026-03-26,Positive,
+act_0274,co_0047,ct_0089,deal_0079,Email,2026-03-11,Positive,
+act_0275,co_0047,ct_0089,deal_0079,Meeting,2026-03-14,Rescheduled,
+act_0276,co_0065,ct_0119,deal_0080,Demo,2026-08-14,Completed,own_001
+act_0277,co_0065,ct_0119,deal_0080,Call,2026-08-28,Completed,own_001
+act_0278,co_0018,ct_0035,deal_0081,Email,2026-08-18,Completed,
+act_0279,co_0018,ct_0035,deal_0081,Task,2026-08-10,Positive,
+act_0280,co_0018,ct_0035,deal_0081,Email,2026-09-02,Follow-up needed,
+act_0281,co_0018,ct_0035,deal_0081,Email,2026-08-24,Follow-up needed,
+act_0282,co_0039,ct_0075,deal_0082,Email,2026-04-18,Completed,own_002
+act_0283,co_0039,ct_0075,deal_0082,Call,2026-03-14,Completed,own_002
+act_0284,co_0039,ct_0075,deal_0082,Call,2026-03-03,Positive,own_002
+act_0285,co_0039,ct_0075,deal_0082,Call,2026-04-03,No response,own_002
+act_0286,co_0039,ct_0075,deal_0082,Email,2026-02-25,No response,own_002
+act_0287,co_0039,ct_0075,deal_0082,Email,2026-04-09,Follow-up needed,own_002
+act_0288,co_0044,ct_0083,deal_0083,Email,2026-07-05,Positive,own_001
+act_0289,co_0044,ct_0083,deal_0083,Call,2026-08-17,Rescheduled,own_001
+act_0290,co_0044,ct_0083,deal_0083,Meeting,2026-06-29,Rescheduled,own_001
+act_0291,co_0044,ct_0083,deal_0083,Task,2026-07-04,Follow-up needed,own_001
+act_0292,co_0044,ct_0083,deal_0083,Email,2026-08-07,Completed,own_001
+act_0293,co_0044,ct_0083,deal_0083,Email,2026-07-31,Completed,own_001
+act_0294,co_0044,ct_0083,deal_0084,Call,2026-05-07,Completed,own_001
+act_0295,co_0026,ct_0051,deal_0085,Demo,2026-09-15,Completed,own_002
+act_0296,co_0026,ct_0051,deal_0085,Meeting,2026-07-16,No response,own_002
+act_0297,co_0026,ct_0051,deal_0085,Task,2026-08-25,Follow-up needed,own_002
+act_0298,co_0026,ct_0051,deal_0085,Email,2026-08-16,Rescheduled,own_002
+act_0299,co_0026,ct_0051,deal_0085,Task,2026-07-29,Rescheduled,own_002
+act_0300,co_0032,ct_0060,deal_0086,Meeting,2026-08-30,Completed,own_001
+act_0301,co_0032,ct_0059,deal_0086,Email,2026-08-30,Rescheduled,own_001
+act_0302,co_0032,ct_0059,deal_0086,Call,2026-09-09,Follow-up needed,own_001
+act_0303,co_0032,ct_0060,deal_0086,Meeting,2026-07-30,Rescheduled,own_001
+act_0304,co_0032,ct_0061,deal_0086,Meeting,2026-08-15,Positive,own_001
+act_0305,co_0069,ct_0127,deal_0087,Demo,2026-10-09,Completed,own_001
+act_0306,co_0069,ct_0128,deal_0087,Demo,2026-09-26,No response,own_001
+act_0307,co_0069,ct_0129,deal_0087,Email,2026-08-31,Positive,own_001
+act_0308,co_0009,ct_0018,deal_0088,Meeting,2026-04-09,Completed,own_002
+act_0309,co_0043,ct_0082,deal_0089,Call,2026-04-09,Positive,
+act_0310,co_0043,ct_0081,deal_0089,Call,2026-04-11,Follow-up needed,
+act_0311,co_0043,ct_0082,deal_0089,Call,2026-03-16,Rescheduled,
+act_0312,co_0043,ct_0080,deal_0089,Task,2026-05-02,Positive,
+act_0313,co_0018,ct_0035,deal_0090,Email,2026-02-18,Follow-up needed,own_001
+act_0314,co_0018,ct_0035,deal_0090,Call,2026-04-15,Completed,own_001
+act_0315,co_0018,ct_0035,deal_0090,Meeting,2026-04-09,No response,own_001
+act_0316,co_0018,ct_0035,deal_0090,Task,2026-03-10,Rescheduled,own_001
+act_0317,co_0070,ct_0130,deal_0091,Meeting,2026-08-14,Rescheduled,
+act_0318,co_0037,ct_0072,deal_0092,Email,2026-08-21,Positive,own_002
+act_0319,co_0037,ct_0072,deal_0092,Demo,2026-08-17,Completed,own_002
+act_0320,co_0037,ct_0073,deal_0092,Demo,2026-08-28,Completed,own_002
+act_0321,co_0072,ct_0135,deal_0093,Email,2026-03-08,Positive,own_002
+act_0322,co_0072,ct_0134,deal_0093,Call,2026-04-22,Positive,own_002
+act_0323,co_0072,ct_0134,deal_0093,Email,2026-03-10,Completed,own_002
+act_0324,co_0072,ct_0135,deal_0093,Email,2026-03-03,Completed,own_002
+act_0325,co_0060,ct_0112,deal_0094,Task,2026-09-08,Completed,own_001
+act_0326,co_0060,ct_0112,deal_0094,Call,2026-08-08,No response,own_001
+act_0327,co_0072,ct_0134,deal_0095,Email,2026-09-22,Completed,own_001
+act_0328,co_0072,ct_0134,deal_0095,Demo,2026-10-11,Completed,own_001
+act_0329,co_0072,ct_0135,deal_0095,Email,2026-11-02,Completed,own_001
+act_0330,co_0044,ct_0083,deal_0096,Demo,2026-04-28,Positive,own_001
+act_0331,co_0044,ct_0083,deal_0096,Task,2026-05-02,No response,own_001
+act_0332,co_0044,ct_0083,deal_0096,Email,2026-03-25,No response,own_001
+act_0333,co_0044,ct_0083,deal_0096,Email,2026-05-11,Rescheduled,own_001
+act_0334,co_0044,ct_0083,deal_0096,Meeting,2026-03-26,Follow-up needed,own_001
+act_0335,co_0049,ct_0092,deal_0097,Call,2026-08-04,Rescheduled,
+act_0336,co_0024,ct_0047,deal_0098,Call,2026-04-19,Rescheduled,own_002
+act_0337,co_0024,ct_0047,deal_0098,Meeting,2026-03-01,Positive,own_002
+act_0338,co_0024,ct_0048,deal_0098,Call,2026-04-06,Positive,own_002
+act_0339,co_0024,ct_0047,deal_0098,Email,2026-04-06,Completed,own_002
+act_0340,co_0063,ct_0117,deal_0099,Email,2026-08-10,Positive,own_002
+act_0341,co_0063,ct_0117,deal_0099,Call,2026-08-05,Rescheduled,own_002
+act_0342,co_0063,ct_0117,deal_0099,Call,2026-08-15,Completed,own_002
+act_0343,co_0063,ct_0117,deal_0099,Task,2026-08-18,Follow-up needed,own_002
+act_0344,co_0063,ct_0117,deal_0099,Meeting,2026-07-10,Positive,own_002
+act_0345,co_0063,ct_0117,deal_0099,Email,2026-07-31,Completed,own_002
+act_0346,co_0071,ct_0133,deal_0100,Task,2026-10-06,Follow-up needed,own_001
+act_0347,co_0071,ct_0132,deal_0100,Demo,2026-09-15,No response,own_001
+act_0348,co_0071,ct_0132,deal_0100,Call,2026-09-09,Completed,own_001

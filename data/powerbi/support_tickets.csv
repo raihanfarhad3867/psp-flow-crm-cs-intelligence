@@ -1,0 +1,18 @@
+ticket_id,company_id,subscription_id,created_at,priority,status,category
+tic_0001,co_0063,sub_0001,2026-07-22,Low,Resolved,Billing
+tic_0002,co_0080,sub_0002,2026-09-06,Low,Resolved,Workflow design
+tic_0003,co_0049,sub_0003,2026-06-11,Critical,Pending,Training
+tic_0004,co_0060,sub_0005,2026-08-22,Medium,Open,Billing
+tic_0005,co_0060,sub_0005,2026-08-04,High,Open,Billing
+tic_0006,co_0060,sub_0005,2026-08-12,High,Pending,Billing
+tic_0007,co_0056,sub_0006,2026-05-30,Medium,Resolved,Bug
+tic_0008,co_0018,sub_0010,2026-05-21,High,Pending,Billing
+tic_0009,co_0018,sub_0010,2026-06-19,Low,Resolved,Bug
+tic_0010,co_0014,sub_0012,2026-07-17,Low,Open,Integration
+tic_0011,co_0014,sub_0012,2026-08-27,Medium,Open,Training
+tic_0012,co_0047,sub_0013,2026-07-11,Medium,Resolved,Billing
+tic_0013,co_0047,sub_0014,2026-06-30,Low,Pending,Training
+tic_0014,co_0047,sub_0014,2026-08-26,Medium,Open,Billing
+tic_0015,co_0047,sub_0014,2026-07-12,Low,Pending,Integration
+tic_0016,co_0074,sub_0016,2026-09-04,High,Resolved,Training
+tic_0017,co_0072,sub_0022,2026-05-28,High,Pending,Billing

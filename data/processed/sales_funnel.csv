@@ -1,0 +1,8 @@
+stage,deal_count,amount_eur,conversion_from_first_stage
+New Lead,5,60000.0,1.0
+Qualified,17,372000.0,3.4
+Demo,12,162000.0,2.4
+Proposal,23,264000.0,4.6
+Negotiation,14,240000.0,2.8
+Won,24,489000.0,4.8
+Lost,5,132000.0,1.0

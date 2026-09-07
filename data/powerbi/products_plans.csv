@@ -1,0 +1,5 @@
+plan_id,plan_name,base_mrr_eur,description
+plan_starter,Starter,250,Small courier teams
+plan_growth,Growth,650,Growing logistics operators
+plan_scale,Scale,1400,Multi-branch logistics businesses
+plan_enterprise,Enterprise,3200,Large logistics and distribution networks

@@ -1,0 +1,83 @@
+company_id,company_name,segment,city,country,employee_count,annual_shipments_est,source,created_at,owner_id
+co_0001,Meghna Courier 1,3PL,Cumilla,Bangladesh,25.0,13700,Event,2026-01-27,own_002
+co_0002,Bengal Logistics 2,Courier,Dhaka,Bangladesh,140.0,290920,Referral,2025-06-10,own_001
+co_0003,Tiger Supply 3,Courier,Narayanganj,Bangladesh,520.0,1077960,website,2026-02-16,own_002
+co_0004,Shapla Express 5,Cold Chain,Cumilla,Bangladesh,45.0,97020,Event,2026-04-25,own_001
+co_0005,Shapla Express 5,E-commerce Fulfilment,Chittagong,Bangladesh,25.0,50900,Outbound,2025-07-09,own_001
+co_0006,Tiger Distribution 6,3PL,Chittagong,Bangladesh,520.0,678080,Event,2026-06-24,own_002
+co_0007,Shapla Fulfilment 7,E-commerce Fulfilment,Gazipur,Bangladesh,80.0,61520,website,2026-01-15,own_001
+co_0008,Bengal Distribution 8,Pharma Distribution,Gazipur,Bangladesh,12.0,24912,,2025-11-05,own_001
+co_0009,Padma Express 9,Pharma Distribution,Dhaka,Bangladesh,12.0,9420,Outbound,2025-01-28,own_001
+co_0010,Meghna Distribution 10,Pharma Distribution,Khulna,Bangladesh,520.0,1045200,Unknown,2025-01-25,own_002
+co_0011,Padma Logistics 11,Courier,Cumilla,Bangladesh,80.0,107920,LinkedIn,2025-10-11,own_002
+co_0012,Meghna Fulfilment 12,Courier,Khulna,Bangladesh,80.0,57280,Event,2026-02-18,own_001
+co_0013,Anchor Express 13,Cold Chain,Rajshahi,Bangladesh,25.0,30925,Partner,2026-07-04,own_001
+co_0014,Nexa Express 14,Pharma Distribution,Sylhet,Bangladesh,260.0,239200,Partner,2025-11-15,own_002
+co_0015,Bengal Courier 15,Cold Chain,Rajshahi,Bangladesh,140.0,302680,Unknown,2025-06-14,own_002
+co_0016,Rapid Fulfilment 16,Retail Distribution,Khulna,Bangladesh,260.0,497120,Unknown,2025-09-27,own_002
+co_0017,Nexa Courier 17,Pharma Distribution,Cumilla,Bangladesh,45.0,52380,Event,2026-07-19,own_002
+co_0018,Rapid Distribution 18,3PL,Narayanganj,Bangladesh,45.0,92070,website,2025-05-12,own_002
+co_0019,Padma Express 19,Retail Distribution,Khulna,Bangladesh,,374660,Partner,2026-04-15,own_002
+co_0020,Delta Distribution 20,E-commerce Fulfilment,Rajshahi,Bangladesh,45.0,28845,website,2026-01-08,own_002
+co_0021,Padma Supply 21,Pharma Distribution,Gazipur,Bangladesh,140.0,115500,,2025-07-01,own_001
+co_0022,Meghna Fulfilment 22,Cold Chain,Rajshahi,Bangladesh,45.0,84285,LinkedIn,2025-11-01,own_002
+co_0023,Tiger Distribution 23,Courier,Narayanganj,Bangladesh,260.0,341900,Website,2025-09-13,own_002
+co_0024,Shapla Supply 24,Courier,Khulna,Bangladesh,520.0,641680,Event,2026-01-28,own_001
+co_0025,Tiger Distribution 25,Cold Chain,Sylhet,Bangladesh,45.0,85725,Outbound,2025-12-10,own_002
+co_0026,Padma Logistics 26,Courier,Narayanganj,Bangladesh,80.0,143680,LinkedIn,2026-03-30,own_001
+co_0027,Padma Logistics 27,Courier,Sylhet,Bangladesh,140.0,220640,Event,2025-03-24,own_001
+co_0028,Jamuna Fulfilment 28,Courier,Cumilla,Bangladesh,260.0,535340,,2025-11-26,own_001
+co_0029,Padma Logistics 29,Cold Chain,Chittagong,Bangladesh,140.0,208880,Unknown,2025-01-18,own_002
+co_0030,Bengal Supply 30,Retail Distribution,Rajshahi,Bangladesh,12.0,11616,LinkedIn,2025-06-24,own_001
+co_0031,Jamuna Fulfilment 31,Retail Distribution,Sylhet,Bangladesh,80.0,154960,Event,2026-01-14,own_001
+co_0032,Shapla Supply 32,3PL,Narayanganj,Bangladesh,45.0,92115,Partner,2026-03-20,own_002
+co_0033,Anchor Logistics 33,3PL,Rajshahi,Bangladesh,140.0,193060,Referral,2026-01-23,own_001
+co_0034,Shapla Express 34,E-commerce Fulfilment,Chittagong,Bangladesh,45.0,46215,Partner,2025-07-26,own_001
+co_0035,Shapla Fulfilment 35,Cold Chain,Gazipur,Bangladesh,520.0,463840,website,2025-12-08,own_001
+co_0036,Shapla Courier 36,E-commerce Fulfilment,Dhaka,Bangladesh,520.0,665600,website,2026-05-16,own_001
+co_0037,Tiger Supply 37,3PL,Gazipur,Bangladesh,260.0,410540,Unknown,2026-07-11,own_002
+co_0038,Tiger Express 38,E-commerce Fulfilment,Gazipur,Bangladesh,12.0,19584,Referral,2025-11-03,own_001
+co_0039,Padma Express 39,Pharma Distribution,Chittagong,Bangladesh,140.0,94780,Partner,2025-10-05,own_001
+co_0040,Jamuna Distribution 40,Courier,Chittagong,Bangladesh,45.0,78885,Partner,2025-04-27,own_002
+co_0041,Rapid Courier 41,Courier,Chittagong,Bangladesh,80.0,67600,Referral,2025-11-01,own_002
+co_0042,Padma Supply 42,Retail Distribution,Narayanganj,Bangladesh,45.0,62820,Event,2025-04-27,own_001
+co_0043,Rapid Fulfilment 43,Retail Distribution,Narayanganj,Bangladesh,260.0,404560,Event,2025-03-26,own_001
+co_0044,Anchor Supply 44,Pharma Distribution,Gazipur,Bangladesh,12.0,12324,Outbound,2025-09-26,own_002
+co_0045,Tiger Distribution 45,Cold Chain,Sylhet,Bangladesh,25.0,52475,Referral,2025-04-30,own_002
+co_0046,Tiger Express 46,Pharma Distribution,Narayanganj,Bangladesh,80.0,125520,LinkedIn,2025-04-09,own_002
+co_0047,Rapid Courier 47,Cold Chain,Gazipur,Bangladesh,140.0,220080,linked in,2025-08-10,own_002
+co_0048,Rapid Fulfilment 48,Cold Chain,Cumilla,Bangladesh,260.0,141700,,2026-04-20,own_001
+co_0049,Meghna Express 49,E-commerce Fulfilment,Dhaka,Bangladesh,140.0,116340,,2025-05-05,own_001
+co_0050,Nexa Courier 50,Retail Distribution,Dhaka,Bangladesh,45.0,52380,Unknown,2025-10-30,own_002
+co_0051,Rapid Fulfilment 51,3PL,Gazipur,Bangladesh,45.0,74070,Referral,2025-07-01,own_002
+co_0052,Delta Supply 52,E-commerce Fulfilment,Khulna,Bangladesh,140.0,168700,website,2025-12-26,own_001
+co_0053,Shapla Distribution 53,E-commerce Fulfilment,Rajshahi,Bangladesh,260.0,166400,Referral,2025-03-14,own_001
+co_0054,Bengal Express 54,Courier,Chittagong,Bangladesh,45.0,35550,,2025-06-16,own_001
+co_0055,Padma Logistics 55,Courier,Gazipur,Bangladesh,12.0,10044,Referral,2025-02-25,own_001
+co_0056,Meghna Logistics 56,E-commerce Fulfilment,Dhaka,Bangladesh,12.0,19464,Outbound,2025-01-23,own_001
+co_0057,Tiger Logistics 57,Courier,Narayanganj,Bangladesh,260.0,136760,LinkedIn,2026-01-01,own_001
+co_0058,Delta Express 58,E-commerce Fulfilment,Chittagong,Bangladesh,80.0,134400,,2025-02-27,own_001
+co_0059,Jamuna Distribution 59,Pharma Distribution,Khulna,Bangladesh,80.0,160880,Event,2025-06-17,own_002
+co_0060,Anchor Fulfilment 60,3PL,Rajshahi,Bangladesh,25.0,53225,Referral,2026-04-22,own_001
+co_0061,Padma Supply 61,3PL,Khulna,Bangladesh,45.0,94185,,2025-11-27,own_001
+co_0062,Nexa Fulfilment 62,Cold Chain,Khulna,Bangladesh,140.0,142240,Referral,2025-01-05,own_001
+co_0063,Shapla Logistics 63,Courier,Sylhet,Bangladesh,45.0,98955,Unknown,2026-03-02,own_002
+co_0064,Rapid Logistics 64,Retail Distribution,Rajshahi,Bangladesh,25.0,14525,linked in,2025-04-19,own_002
+co_0065,Tiger Courier 65,Courier,Sylhet,Bangladesh,45.0,34245,Unknown,2025-01-19,own_001
+co_0066,Delta Express 66,Cold Chain,Khulna,Bangladesh,12.0,11256,website,2025-09-16,own_001
+co_0067,Bengal Express 67,Retail Distribution,Chittagong,Bangladesh,520.0,318760,LinkedIn,2025-07-17,own_001
+co_0068,Jamuna Express 68,E-commerce Fulfilment,Chittagong,Bangladesh,80.0,61360,website,2026-05-20,own_002
+co_0069,Shapla Distribution 69,Retail Distribution,Narayanganj,Bangladesh,80.0,160960,website,2025-11-22,own_001
+co_0070,Meghna Distribution 70,Cold Chain,Dhaka,Bangladesh,12.0,14112,Event,2025-04-20,own_002
+co_0071,Bengal Express 71,Pharma Distribution,Sylhet,Bangladesh,80.0,117840,Outbound,2026-03-16,own_002
+co_0072,Jamuna Logistics 72,Courier,Cumilla,Bangladesh,25.0,43525,Outbound,2025-11-11,own_002
+co_0073,Meghna Express 73,Retail Distribution,Dhaka,Bangladesh,260.0,158860,Website,2026-06-14,own_002
+co_0074,Nexa Distribution 74,Retail Distribution,Khulna,Bangladesh,12.0,11520,LinkedIn,2025-07-05,own_002
+co_0075,Anchor Express 75,Pharma Distribution,Cumilla,Bangladesh,140.0,217840,Outbound,2026-05-15,own_002
+co_0076,Bengal Logistics 76,Courier,Gazipur,Bangladesh,12.0,25824,LinkedIn,2025-05-26,own_002
+co_0077,Rapid Fulfilment 77,3PL,Gazipur,Bangladesh,25.0,52675,,2026-07-11,own_002
+co_0078,Anchor Express 78,Pharma Distribution,Narayanganj,Bangladesh,45.0,43560,Website,2026-02-12,own_002
+co_0079,Meghna Courier 79,3PL,Narayanganj,Bangladesh,25.0,14200,Partner,2025-04-27,own_001
+co_0080,Nexa Courier 80,3PL,Gazipur,Bangladesh,80.0,121760,website,2026-06-29,own_002
+co_0005,Shapla Express 5,E-commerce Fulfilment,Chittagong,Bangladesh,25.0,50900,Outbound,2025-07-09,own_001
+co_0012,Meghna Fulfilment 12,Courier,Khulna,Bangladesh,80.0,57280,Event,2026-02-18,own_001

@@ -1,0 +1,122 @@
+lead_id,company_id,contact_id,source,lifecycle_stage,lead_score,created_at,first_response_at,owner_id
+lead_0001,co_0070,ct_0130,Website,Disqualified,21,2026-03-16,,own_002
+lead_0002,co_0074,ct_0138,Unknown,Qualified,69,2026-08-06,2026-08-06,
+lead_0003,co_0049,ct_0093,Referral,Qualified,56,2026-02-14,,
+lead_0004,co_0033,ct_0064,Unknown,Qualified,71,2026-01-29,2026-01-29,own_001
+lead_0005,co_0074,ct_0137,,Disqualified,44,2026-08-07,2026-08-08,
+lead_0006,co_0056,ct_0105,linked in,New Lead,94,2026-05-20,2026-05-20,own_002
+lead_0007,co_0019,ct_0036,website,Disqualified,64,2026-05-24,2026-05-29,own_002
+lead_0008,co_0064,ct_0118,website,Qualified,34,2026-08-11,2026-08-11,own_002
+lead_0009,co_0044,ct_0083,,New Lead,21,2026-01-31,2026-01-31,own_001
+lead_0010,co_0048,ct_0090,Event,New Lead,95,2026-03-19,2026-03-19,own_002
+lead_0011,co_0062,ct_0115,,Qualified,41,2026-04-28,2026-04-28,own_001
+lead_0012,co_0056,ct_0105,LinkedIn,Qualified,43,2026-04-23,2026-04-24,own_001
+lead_0013,co_0033,,Outbound,New Lead,25,2026-03-09,2026-03-09,own_002
+lead_0014,co_0003,ct_0004,Website,Qualified,38,2026-02-21,2026-02-21,own_002
+lead_0015,co_0077,ct_0143,Partner,Qualified,62,2026-06-14,2026-06-17,own_002
+lead_0016,co_0001,ct_0001,website,Qualified,54,2026-02-04,2026-02-07,
+lead_0017,co_0065,ct_0119,Event,Qualified,64,2026-07-06,2026-07-06,
+lead_0018,co_0019,ct_0036,LinkedIn,New Lead,81,2026-05-03,2026-05-04,own_001
+lead_0019,co_0030,ct_0056,Website,Qualified,55,2026-01-30,2026-01-30,
+lead_0020,co_0029,ct_0055,linked in,Qualified,70,2026-06-06,2026-06-06,
+lead_0021,co_0027,ct_0052,website,Qualified,26,2026-04-13,2026-04-13,
+lead_0022,co_0018,ct_0035,Website,Qualified,72,2026-01-17,2026-01-18,own_002
+lead_0023,co_0062,ct_0115,website,Qualified,40,2026-04-27,2026-04-27,
+lead_0024,co_0050,ct_0094,LinkedIn,Qualified,48,2026-06-28,2026-06-28,
+lead_0025,co_0038,ct_0074,Unknown,Qualified,57,2026-01-08,2026-01-09,own_002
+lead_0026,co_0078,ct_0147,Outbound,New Lead,69,2026-08-16,,own_001
+lead_0027,co_0072,ct_0135,Website,Qualified,63,2026-01-26,2026-01-26,own_002
+lead_0028,co_0029,ct_0054,Partner,Qualified,31,2026-06-23,2026-06-23,own_001
+lead_0029,co_0004,ct_0007,Unknown,Qualified,21,2026-06-18,2026-06-18,own_001
+lead_0030,co_0039,ct_0075,LinkedIn,Qualified,29,2026-02-13,2026-02-14,own_002
+lead_0031,co_0047,ct_0088,website,Qualified,80,2026-01-23,2026-01-23,
+lead_0032,co_0025,ct_0050,website,Qualified,72,2026-05-19,2026-05-19,own_002
+lead_0033,co_0048,ct_0090,linked in,New Lead,42,2026-02-27,2026-02-27,
+lead_0034,co_0076,ct_0142,Outbound,New Lead,26,2026-03-09,2026-03-09,own_001
+lead_0035,co_0074,ct_0139,Partner,Qualified,72,2026-01-01,,own_001
+lead_0036,co_0049,ct_0092,linked in,Qualified,21,2026-06-25,2026-06-25,
+lead_0037,co_0018,ct_0035,website,Qualified,57,2026-02-04,2026-02-04,own_001
+lead_0038,co_0005,ct_0009,website,Qualified,78,2026-01-16,2026-01-16,
+lead_0039,co_0018,ct_0035,,Qualified,70,2026-04-03,2026-04-03,
+lead_0040,co_0072,ct_0135,Outbound,New Lead,60,2026-01-30,2026-01-30,
+lead_0041,co_0057,ct_0106,Referral,Qualified,60,2026-05-16,2026-05-21,own_002
+lead_0042,co_0042,ct_0078,Referral,Qualified,49,2026-06-16,2026-06-16,own_001
+lead_0043,co_0027,ct_0052,Partner,Qualified,40,2026-07-10,2026-07-10,
+lead_0044,co_0030,ct_0056,Event,New Lead,87,2026-04-16,2026-04-16,own_002
+lead_0045,co_0004,ct_0007,Partner,Qualified,37,2026-04-28,2026-04-28,own_001
+lead_0046,co_0012,ct_0023,Website,Qualified,35,2026-05-17,2026-05-17,
+lead_0047,co_0059,ct_0109,Partner,Qualified,73,2026-01-12,2026-01-12,own_001
+lead_0048,co_0076,ct_0142,Event,Qualified,83,2026-02-11,2026-02-12,
+lead_0049,co_0056,ct_0104,LinkedIn,Qualified,95,2026-08-21,2026-08-21,
+lead_0050,co_0075,ct_0140,Event,New Lead,45,2026-07-18,2026-07-18,own_002
+lead_0051,co_0031,ct_0058,linked in,New Lead,46,2026-01-11,2026-01-11,own_002
+lead_0052,co_0043,ct_0082,Website,Qualified,39,2026-02-11,2026-02-11,
+lead_0053,co_0063,ct_0117,LinkedIn,Qualified,60,2026-01-03,2026-01-03,
+lead_0054,co_0035,ct_0069,,Qualified,84,2026-02-23,2026-02-26,own_002
+lead_0055,co_0052,ct_0096,,Qualified,65,2026-08-16,2026-08-19,own_002
+lead_0056,co_0053,ct_0097,Referral,Disqualified,42,2026-03-20,2026-03-20,own_001
+lead_0057,co_0071,ct_0133,linked in,Qualified,66,2026-08-09,2026-08-09,own_001
+lead_0058,co_0031,ct_0058,linked in,Qualified,83,2026-06-27,2026-06-27,own_002
+lead_0059,co_0018,ct_0035,Unknown,Qualified,88,2026-07-16,2026-07-16,
+lead_0060,co_0063,ct_0117,,New Lead,57,2026-05-20,2026-05-20,
+lead_0061,co_0039,ct_0075,Outbound,Qualified,60,2026-05-18,2026-05-18,own_002
+lead_0062,co_0008,ct_0016,Website,Qualified,45,2026-04-15,2026-04-16,
+lead_0063,co_0001,ct_0001,LinkedIn,Qualified,63,2026-02-24,2026-03-01,own_002
+lead_0064,co_0021,ct_0040,linked in,New Lead,50,2026-01-05,2026-01-05,own_002
+lead_0065,co_0008,ct_0016,linked in,Qualified,84,2026-08-10,2026-08-11,own_001
+lead_0066,co_0071,ct_0132,Website,Qualified,55,2026-01-20,2026-01-20,own_001
+lead_0067,co_0016,ct_0031,Website,Qualified,67,2026-04-05,2026-04-05,
+lead_0068,co_0024,ct_0048,linked in,Qualified,47,2026-02-10,2026-02-10,own_002
+lead_0069,co_0035,ct_0068,Referral,Qualified,28,2026-08-26,2026-08-26,own_001
+lead_0070,co_0044,ct_0083,,New Lead,90,2026-05-31,2026-06-01,own_001
+lead_0071,co_0005,ct_0011,linked in,Qualified,67,2026-07-25,2026-07-25,own_002
+lead_0072,co_0018,ct_0035,Unknown,New Lead,94,2026-01-26,2026-01-26,own_001
+lead_0073,co_0037,ct_0072,Unknown,Disqualified,86,2026-07-21,,own_002
+lead_0074,co_0007,ct_0014,website,Qualified,79,2026-03-17,2026-03-17,own_002
+lead_0075,co_0065,ct_0119,,Qualified,46,2026-06-26,2026-06-26,own_001
+lead_0076,co_0018,ct_0035,Outbound,Qualified,64,2026-01-14,2026-01-19,own_001
+lead_0077,co_0019,ct_0036,Event,Qualified,69,2026-04-17,2026-04-17,
+lead_0078,co_0032,ct_0060,Website,Qualified,24,2026-07-22,2026-07-25,own_001
+lead_0079,co_0060,ct_0112,Unknown,New Lead,28,2026-07-20,2026-07-20,own_001
+lead_0080,co_0018,ct_0035,LinkedIn,Qualified,50,2026-04-23,2026-04-24,own_002
+lead_0081,co_0034,ct_0067,Unknown,New Lead,62,2026-01-24,2026-01-27,own_002
+lead_0082,co_0071,ct_0133,Website,Qualified,23,2026-09-06,2026-09-06,own_001
+lead_0083,co_0046,ct_0086,Referral,Qualified,28,2026-05-07,2026-05-08,own_001
+lead_0084,co_0058,ct_0107,Partner,Qualified,73,2026-05-07,2026-05-07,
+lead_0085,co_0069,ct_0127,Partner,New Lead,69,2026-07-29,2026-07-30,own_001
+lead_0086,co_0025,ct_0049,Referral,New Lead,36,2026-06-11,2026-06-11,own_001
+lead_0087,co_0070,ct_0130,LinkedIn,Disqualified,62,2026-08-06,2026-08-06,
+lead_0088,co_0047,ct_0088,Outbound,Disqualified,21,2026-01-16,2026-01-16,own_001
+lead_0089,co_0001,ct_0001,Website,Qualified,44,2026-08-16,2026-08-17,
+lead_0090,co_0009,ct_0019,Website,New Lead,92,2026-02-15,2026-02-16,own_002
+lead_0091,co_0075,ct_0141,Referral,New Lead,86,2026-05-08,2026-05-09,own_002
+lead_0092,co_0077,ct_0144,,New Lead,31,2026-04-01,2026-04-01,own_002
+lead_0093,co_0019,ct_0036,linked in,New Lead,69,2026-01-23,2026-01-23,
+lead_0094,co_0059,ct_0110,,New Lead,24,2026-03-21,2026-03-21,
+lead_0095,co_0080,ct_0151,Partner,Qualified,64,2026-04-24,2026-04-25,own_002
+lead_0096,co_0014,ct_0026,Website,New Lead,56,2026-06-06,2026-06-06,own_001
+lead_0097,co_0078,ct_0147,linked in,Qualified,46,2026-06-29,2026-06-29,
+lead_0098,co_0067,ct_0124,LinkedIn,Qualified,70,2026-02-22,2026-02-22,own_001
+lead_0099,co_0026,ct_0051,Outbound,Disqualified,62,2026-07-04,2026-07-07,own_002
+lead_0100,co_0030,ct_0056,Partner,Qualified,75,2026-07-01,2026-07-01,own_001
+lead_0101,co_0039,ct_0075,LinkedIn,Qualified,76,2026-07-21,,own_002
+lead_0102,co_0073,ct_0136,Unknown,Qualified,65,2026-07-01,2026-07-02,own_002
+lead_0103,co_0020,ct_0038,Referral,Qualified,34,2026-02-03,,
+lead_0104,co_0077,ct_0145,Event,Qualified,53,2026-05-25,2026-05-25,
+lead_0105,co_0008,ct_0016,Partner,Qualified,28,2026-08-29,2026-08-29,own_002
+lead_0106,co_0052,ct_0096,Website,New Lead,90,2026-04-15,2026-04-20,
+lead_0107,co_0072,ct_0134,Event,New Lead,42,2026-07-31,2026-08-05,own_001
+lead_0108,co_0044,ct_0083,Event,New Lead,89,2026-05-24,2026-05-24,own_002
+lead_0109,co_0071,ct_0133,linked in,New Lead,54,2026-08-07,2026-08-07,own_002
+lead_0110,co_0017,ct_0034,Event,New Lead,74,2026-06-29,2026-06-30,own_001
+lead_0111,co_0043,ct_0081,LinkedIn,New Lead,78,2026-07-25,2026-07-28,
+lead_0112,co_0025,ct_0050,Outbound,Qualified,94,2026-04-24,2026-04-25,
+lead_0113,co_0037,ct_0073,Partner,New Lead,61,2026-09-06,2026-09-07,own_002
+lead_0114,co_0063,ct_0117,website,Disqualified,46,2026-05-08,2026-05-08,own_002
+lead_0115,co_0073,ct_0136,Unknown,Qualified,53,2026-05-02,2026-05-05,own_001
+lead_0116,co_0036,ct_0071,Website,Qualified,65,2026-08-25,2026-08-26,own_002
+lead_0117,co_0016,ct_0031,Event,Qualified,30,2026-02-07,2026-02-07,own_001
+lead_0118,co_0045,ct_0084,Event,Qualified,37,2025-12-23,2025-12-23,own_002
+lead_0119,co_0076,ct_0142,LinkedIn,Qualified,85,2026-04-16,2026-04-16,own_001
+lead_0120,co_0001,ct_0001,Unknown,Qualified,79,2026-08-13,2026-08-13,own_001
+lead_0009,co_0044,ct_0083,,New Lead,21,2026-01-31,2026-01-31,own_001

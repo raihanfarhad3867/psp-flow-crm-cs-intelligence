@@ -1,0 +1,25 @@
+subscription_id,company_id,deal_id,plan_id,start_date,renewal_date,status,mrr_eur,arr_eur,expansion_mrr_eur
+sub_0001,co_0063,deal_0003,plan_enterprise,2026-07-05,2027-07-05,Active,3377,40524,0
+sub_0002,co_0080,deal_0006,plan_growth,2026-07-30,2027-07-30,At Risk,631,7572,150
+sub_0003,co_0049,deal_0008,plan_scale,2026-08-17,2027-08-17,Active,1374,16488,0
+sub_0004,co_0001,deal_0009,plan_enterprise,2026-11-20,2027-11-20,Active,2755,33060,0
+sub_0005,co_0060,deal_0016,plan_starter,2026-10-02,2027-10-02,Active,233,2796,0
+sub_0006,co_0056,deal_0020,plan_growth,2026-10-10,2027-10-10,Active,815,9780,80
+sub_0007,co_0065,deal_0021,plan_enterprise,2026-10-12,2027-10-12,Active,3998,47976,80
+sub_0008,co_0077,deal_0040,plan_growth,2026-06-21,2027-06-21,At Risk,572,6864,150
+sub_0009,co_0049,deal_0045,plan_growth,2026-05-30,2027-05-30,Active,642,7704,0
+sub_0010,co_0018,deal_0046,plan_scale,2026-02-27,2027-02-27,Active,1227,14724,150
+sub_0011,co_0033,deal_0059,plan_growth,2026-05-03,2027-05-03,Active,689,8268,300
+sub_0012,co_0014,deal_0060,plan_starter,2026-07-17,2027-07-17,Active,226,2712,0
+sub_0013,co_0047,deal_0070,plan_growth,2026-03-30,2027-03-30,At Risk,852,10224,150
+sub_0014,co_0047,deal_0071,plan_starter,2026-04-08,2027-04-08,Active,296,3552,150
+sub_0015,co_0001,deal_0075,plan_scale,2026-11-13,2027-11-13,Active,1887,22644,80
+sub_0016,co_0074,deal_0077,plan_scale,2026-02-24,2027-02-24,Active,1615,19380,0
+sub_0017,co_0065,deal_0080,plan_enterprise,2026-09-08,2027-09-08,At Risk,3235,38820,300
+sub_0018,co_0044,deal_0083,plan_starter,2026-08-06,2027-08-06,Active,316,3792,300
+sub_0019,co_0043,deal_0089,plan_growth,2026-04-28,2027-04-28,Churned,748,8976,0
+sub_0020,co_0018,deal_0090,plan_growth,2026-03-14,2027-03-14,At Risk,762,9144,0
+sub_0021,co_0070,deal_0091,plan_enterprise,2026-08-29,2027-08-29,Active,3439,41268,80
+sub_0022,co_0072,deal_0095,plan_growth,2026-09-14,2027-09-14,Active,761,9132,0
+sub_0023,co_0044,deal_0096,plan_scale,2026-04-11,2027-04-11,Active,1823,21876,300
+sub_0024,co_0063,deal_0099,plan_enterprise,2026-09-08,2027-09-08,At Risk,3654,43848,80

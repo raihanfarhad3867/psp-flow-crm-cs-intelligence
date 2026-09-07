@@ -1,0 +1,101 @@
+deal_id,lead_id,company_id,deal_name,stage,stage_probability,amount_eur,weighted_amount_eur,created_at,expected_close_date,closed_at,loss_reason,owner_id
+deal_0001,lead_0091,co_0075,PSP Flow rollout - co_0075,Qualified,0.18,3000,540.0,2026-05-30,2026-08-13,,,own_002
+deal_0002,lead_0075,co_0065,PSP Flow rollout - co_0065,Negotiation,0.75,6000,4500.0,2026-07-04,2026-08-27,,,own_001
+deal_0003,lead_0060,co_0063,PSP Flow rollout - co_0063,Won,1.0,9000,9000.0,2026-06-01,2026-09-01,2026-07-05,,own_001
+deal_0004,lead_0018,co_0019,PSP Flow rollout - co_0019,Negotiation,0.75,15000,11250.0,2026-05-25,2026-08-31,,,own_001
+deal_0005,lead_0097,co_0078,PSP Flow rollout - co_0078,Demo,0.35,15000,5250.0,2026-07-02,2026-11-06,,,own_001
+deal_0006,lead_0095,co_0080,PSP Flow rollout - co_0080,Won,1.0,6000,6000.0,2026-05-04,2026-06-01,2026-07-30,,own_002
+deal_0007,lead_0033,co_0048,PSP Flow rollout - co_0048,Proposal,0.55,3000,1650.0,2026-03-22,2026-06-04,,,own_001
+deal_0008,lead_0036,co_0049,PSP Flow rollout - co_0049,Won,1.0,9000,9000.0,2026-07-05,2026-10-19,2026-08-17,,own_001
+deal_0009,lead_0120,co_0001,PSP Flow rollout - co_0001,Won,1.0,15000,15000.0,2026-09-14,2026-10-31,2026-11-20,,own_001
+deal_0010,lead_0014,co_0003,PSP Flow rollout - co_0003,Qualified,0.18,24000,4320.0,2026-03-15,2026-06-14,,,own_002
+deal_0011,lead_0021,co_0027,PSP Flow rollout - co_0027,Proposal,0.55,9000,4950.0,2026-05-01,2026-07-08,,,own_001
+deal_0012,lead_0076,co_0018,PSP Flow rollout - co_0018,Proposal,0.55,9000,4950.0,2026-01-27,2026-05-26,,,own_001
+deal_0013,lead_0098,co_0067,PSP Flow rollout - co_0067,New Lead,0.05,6000,300.0,2026-03-14,2026-07-12,,,own_001
+deal_0014,lead_0083,co_0046,PSP Flow rollout - co_0046,Qualified,0.18,6000,1080.0,2026-05-13,2026-07-21,,,own_001
+deal_0015,lead_0001,co_0070,PSP Flow rollout - co_0070,Demo,0.35,3000,1050.0,2026-03-21,2026-07-07,,,own_002
+deal_0016,lead_0079,co_0060,PSP Flow rollout - co_0060,Won,1.0,15000,15000.0,2026-08-05,2026-11-01,2026-10-02,,own_001
+deal_0017,lead_0083,co_0046,PSP Flow rollout - co_0046,Demo,0.35,3000,1050.0,2026-05-14,2026-07-04,,,own_001
+deal_0018,lead_0083,co_0046,PSP Flow rollout - co_0046,Proposal,0.55,24000,13200.0,2026-05-19,2026-08-12,,,own_001
+deal_0019,lead_0108,co_0044,PSP Flow rollout - co_0044,Qualified,0.18,42000,7560.0,2026-06-11,2026-10-16,,,own_002
+deal_0020,lead_0049,co_0056,PSP Flow rollout - co_0056,Won,1.0,9000,9000.0,2026-09-05,2026-11-25,2026-10-10,,own_001
+deal_0021,lead_0075,co_0065,PSP Flow rollout - co_0065,Won,1.0,6000,6000.0,2026-07-11,2026-10-09,2026-10-12,,own_001
+deal_0022,lead_0071,co_0005,PSP Flow rollout - co_0005,Lost,0.0,24000,0.0,2026-08-04,2026-11-19,2026-11-05,Timing,own_002
+deal_0023,lead_0009,co_0044,PSP Flow rollout - co_0044,Demo,0.35,15000,5250.0,2026-02-27,2026-03-30,,,own_001
+deal_0024,lead_0026,co_0078,PSP Flow rollout - co_0078,Proposal,0.55,9000,4950.0,2026-09-05,2026-10-06,,,own_001
+deal_0025,lead_0113,co_0037,PSP Flow rollout - co_0037,Proposal,0.55,15000,8250.0,2026-10-10,2026-12-27,,,own_002
+deal_0026,lead_0024,co_0050,PSP Flow rollout - co_0050,Qualified,0.18,24000,4320.0,2026-08-01,2026-11-10,,,own_001
+deal_0027,lead_0050,co_0075,PSP Flow rollout - co_0075,Proposal,0.55,9000,4950.0,2026-07-30,2026-08-27,,,own_002
+deal_0028,lead_0028,co_0029,PSP Flow rollout - co_0029,Proposal,0.55,9000,4950.0,2026-06-29,2026-10-29,,,own_001
+deal_0029,lead_0080,co_0018,PSP Flow rollout - co_0018,Lost,0.0,6000,0.0,2026-05-02,2026-07-08,2026-05-17,Missing integration,own_002
+deal_0030,lead_0091,co_0075,PSP Flow rollout - co_0075,New Lead,0.05,15000,750.0,2026-05-22,2026-07-05,,,own_002
+deal_0031,lead_0029,co_0004,PSP Flow rollout - co_0004,Negotiation,0.75,24000,18000.0,2026-07-06,2026-10-31,,,own_001
+deal_0032,lead_0059,co_0018,PSP Flow rollout - co_0018,Demo,0.35,9000,3150.0,2026-07-27,2026-08-22,,,own_001
+deal_0033,lead_0073,co_0037,PSP Flow rollout - co_0037,Qualified,0.18,15000,2700.0,2026-08-15,2026-12-19,,,own_002
+deal_0034,lead_0052,co_0043,PSP Flow rollout - co_0043,Negotiation,0.75,6000,4500.0,2026-02-16,2026-03-16,,,own_002
+deal_0035,lead_0076,co_0018,PSP Flow rollout - co_0018,Proposal,0.55,15000,8250.0,2026-01-27,2026-04-13,,,own_001
+deal_0036,lead_0046,co_0012,PSP Flow rollout - co_0012,New Lead,0.05,9000,450.0,2026-05-22,2026-09-12,,,own_001
+deal_0037,lead_0009,co_0044,PSP Flow rollout - co_0044,Qualified,0.18,3000,540.0,2026-02-11,2026-04-23,,,own_001
+deal_0038,lead_0061,co_0039,PSP Flow rollout - co_0039,Proposal,0.55,6000,3300.0,2026-05-22,2026-09-06,,,own_002
+deal_0039,lead_0103,co_0020,PSP Flow rollout - co_0020,Proposal,0.55,6000,3300.0,2026-02-14,2026-03-25,,,own_002
+deal_0040,lead_0092,co_0077,PSP Flow rollout - co_0077,Won,1.0,24000,24000.0,2026-04-09,2026-07-31,2026-06-21,,own_002
+deal_0041,lead_0030,co_0039,PSP Flow rollout - co_0039,Demo,0.35,6000,2100.0,2026-03-15,2026-06-27,,,own_002
+deal_0042,lead_0094,co_0059,PSP Flow rollout - co_0059,Qualified,0.18,42000,7560.0,2026-04-02,2026-05-18,,,own_001
+deal_0043,lead_0109,co_0071,PSP Flow rollout - co_0071,Negotiation,0.75,3000,2250.0,2026-09-02,2026-10-17,,,own_002
+deal_0044,lead_0025,co_0038,PSP Flow rollout - co_0038,Negotiation,0.75,9000,6750.0,2026-01-21,2026-05-28,,,own_002
+deal_0045,lead_0003,co_0049,PSP Flow rollout - co_0049,Won,1.0,72000,72000.0,2026-03-15,2026-04-24,2026-05-30,,own_001
+deal_0046,lead_0022,co_0018,PSP Flow rollout - co_0018,Won,1.0,9000,9000.0,2026-01-19,2026-04-01,2026-02-27,,own_002
+deal_0047,lead_0022,co_0018,PSP Flow rollout - co_0018,New Lead,0.05,24000,1200.0,2026-01-23,2026-05-04,,,own_002
+deal_0048,lead_0098,co_0067,PSP Flow rollout - co_0067,Demo,0.35,24000,8400.0,2026-03-16,2026-05-28,,,own_001
+deal_0049,lead_0023,co_0062,PSP Flow rollout - co_0062,Proposal,0.55,15000,8250.0,2026-05-31,2026-08-13,,,own_001
+deal_0050,lead_0080,co_0018,PSP Flow rollout - co_0018,Qualified,0.18,24000,4320.0,2026-05-24,2026-08-01,,,own_002
+deal_0051,lead_0006,co_0056,PSP Flow rollout - co_0056,Negotiation,0.75,9000,6750.0,2026-05-24,2026-09-07,,,own_002
+deal_0052,lead_0057,co_0071,PSP Flow rollout - co_0071,Demo,0.35,15000,5250.0,2026-08-29,2026-11-09,,,own_001
+deal_0053,lead_0088,co_0047,PSP Flow rollout - co_0047,Qualified,0.18,15000,2700.0,2026-01-31,2026-03-15,,,own_001
+deal_0054,lead_0087,co_0070,PSP Flow rollout - co_0070,Proposal,0.55,6000,3300.0,2026-08-15,2026-09-14,,,own_001
+deal_0055,lead_0059,co_0018,PSP Flow rollout - co_0018,Proposal,0.55,3000,1650.0,2026-07-28,2026-10-04,,,own_002
+deal_0056,lead_0034,co_0076,PSP Flow rollout - co_0076,Proposal,0.55,9000,4950.0,2026-03-26,2026-06-23,,,own_001
+deal_0057,lead_0013,co_0033,PSP Flow rollout - co_0033,Lost,0.0,15000,0.0,2026-04-04,2026-05-19,2026-07-05,Missing integration,own_002
+deal_0058,lead_0023,co_0062,PSP Flow rollout - co_0062,Negotiation,0.75,24000,18000.0,2026-05-10,2026-06-19,,,own_001
+deal_0059,lead_0004,co_0033,PSP Flow rollout - co_0033,Won,1.0,9000,9000.0,2026-02-16,2026-04-13,2026-05-03,,own_001
+deal_0060,lead_0096,co_0014,PSP Flow rollout - co_0014,Won,1.0,42000,42000.0,2026-06-27,2026-08-14,2026-07-17,,own_001
+deal_0061,lead_0088,co_0047,PSP Flow rollout - co_0047,Negotiation,0.75,6000,4500.0,2026-01-30,2026-02-26,,,own_001
+deal_0062,lead_0091,co_0075,PSP Flow rollout - co_0075,Qualified,0.18,9000,1620.0,2026-05-10,2026-08-15,,,own_002
+deal_0063,lead_0113,co_0037,PSP Flow rollout - co_0037,Demo,0.35,24000,8400.0,2026-10-04,2026-12-27,,,own_002
+deal_0064,lead_0101,co_0039,PSP Flow rollout - co_0039,Demo,0.35,24000,8400.0,2026-08-06,2026-10-27,,,own_002
+deal_0065,lead_0010,co_0048,PSP Flow rollout - co_0048,New Lead,0.05,6000,300.0,2026-04-13,2026-05-09,,,own_002
+deal_0066,lead_0056,co_0053,PSP Flow rollout - co_0053,Lost,0.0,72000,0.0,2026-04-19,2026-07-03,2026-05-01,No decision,own_001
+deal_0067,lead_0080,co_0018,PSP Flow rollout - co_0018,Qualified,0.18,15000,2700.0,2026-04-30,2026-07-08,,,own_002
+deal_0068,lead_0047,co_0059,PSP Flow rollout - co_0059,Demo,0.35,9000,3150.0,2026-01-15,2026-04-24,,,own_001
+deal_0069,lead_0007,co_0019,PSP Flow rollout - co_0019,Proposal,0.55,24000,13200.0,2026-06-23,2026-09-03,,,own_002
+deal_0070,lead_0088,co_0047,PSP Flow rollout - co_0047,Won,1.0,42000,42000.0,2026-01-26,2026-03-18,2026-03-30,,own_001
+deal_0071,lead_0031,co_0047,PSP Flow rollout - co_0047,Won,1.0,3000,3000.0,2026-02-04,2026-05-26,2026-04-08,,own_002
+deal_0072,lead_0037,co_0018,PSP Flow rollout - co_0018,Qualified,0.18,42000,7560.0,2026-02-10,2026-03-28,,,own_001
+deal_0073,lead_0005,co_0074,PSP Flow rollout - co_0074,Demo,0.35,15000,5250.0,2026-09-09,2026-10-11,,,own_001
+deal_0074,lead_0006,co_0056,PSP Flow rollout - co_0056,Proposal,0.55,9000,4950.0,2026-06-04,2026-09-17,,,own_002
+deal_0075,lead_0120,co_0001,PSP Flow rollout - co_0001,Won,1.0,72000,72000.0,2026-09-01,2026-11-28,2026-11-13,,own_001
+deal_0076,lead_0100,co_0030,PSP Flow rollout - co_0030,Negotiation,0.75,72000,54000.0,2026-07-03,2026-09-26,,,own_001
+deal_0077,lead_0035,co_0074,PSP Flow rollout - co_0074,Won,1.0,15000,15000.0,2026-01-27,2026-03-28,2026-02-24,,own_001
+deal_0078,lead_0006,co_0056,PSP Flow rollout - co_0056,Negotiation,0.75,9000,6750.0,2026-06-08,2026-08-18,,,own_002
+deal_0079,lead_0031,co_0047,PSP Flow rollout - co_0047,Qualified,0.18,24000,4320.0,2026-02-10,2026-05-30,,,own_001
+deal_0080,lead_0075,co_0065,PSP Flow rollout - co_0065,Won,1.0,72000,72000.0,2026-07-02,2026-10-04,2026-09-08,,own_001
+deal_0081,lead_0059,co_0018,PSP Flow rollout - co_0018,Proposal,0.55,9000,4950.0,2026-07-28,2026-10-09,,,own_001
+deal_0082,lead_0030,co_0039,PSP Flow rollout - co_0039,Qualified,0.18,6000,1080.0,2026-02-23,2026-05-18,,,own_002
+deal_0083,lead_0070,co_0044,PSP Flow rollout - co_0044,Won,1.0,9000,9000.0,2026-06-05,2026-09-22,2026-08-06,,own_001
+deal_0084,lead_0009,co_0044,PSP Flow rollout - co_0044,Proposal,0.55,24000,13200.0,2026-03-03,2026-05-30,,,own_001
+deal_0085,lead_0099,co_0026,PSP Flow rollout - co_0026,Proposal,0.55,15000,8250.0,2026-07-09,2026-09-25,,,own_002
+deal_0086,lead_0078,co_0032,PSP Flow rollout - co_0032,Negotiation,0.75,9000,6750.0,2026-07-29,2026-11-27,,,own_001
+deal_0087,lead_0085,co_0069,PSP Flow rollout - co_0069,Proposal,0.55,9000,4950.0,2026-08-16,2026-09-13,,,own_001
+deal_0088,lead_0090,co_0009,PSP Flow rollout - co_0009,Proposal,0.55,24000,13200.0,2026-03-15,2026-07-05,,,own_002
+deal_0089,lead_0052,co_0043,PSP Flow rollout - co_0043,Won,1.0,6000,6000.0,2026-02-28,2026-04-06,2026-04-28,,own_002
+deal_0090,lead_0072,co_0018,PSP Flow rollout - co_0018,Won,1.0,9000,9000.0,2026-02-17,2026-05-15,2026-03-14,,own_001
+deal_0091,lead_0087,co_0070,PSP Flow rollout - co_0070,Won,1.0,15000,15000.0,2026-08-12,2026-10-08,2026-08-29,,own_002
+deal_0092,lead_0073,co_0037,PSP Flow rollout - co_0037,Qualified,0.18,72000,12960.0,2026-08-15,2026-12-07,,,own_002
+deal_0093,lead_0027,co_0072,PSP Flow rollout - co_0072,Proposal,0.55,3000,1650.0,2026-02-05,2026-05-12,,,own_002
+deal_0094,lead_0079,co_0060,PSP Flow rollout - co_0060,Negotiation,0.75,42000,31500.0,2026-07-29,2026-09-17,,,own_001
+deal_0095,lead_0107,co_0072,PSP Flow rollout - co_0072,Won,1.0,6000,6000.0,2026-09-03,2026-12-04,2026-09-14,,own_001
+deal_0096,lead_0009,co_0044,PSP Flow rollout - co_0044,Won,1.0,6000,6000.0,2026-02-23,2026-06-07,2026-04-11,,own_001
+deal_0097,lead_0036,co_0049,PSP Flow rollout - co_0049,Qualified,0.18,6000,1080.0,2026-07-12,2026-09-12,,,own_002
+deal_0098,lead_0068,co_0024,PSP Flow rollout - co_0024,Lost,0.0,15000,0.0,2026-02-24,2026-06-13,2026-04-04,Missing integration,own_002
+deal_0099,lead_0114,co_0063,PSP Flow rollout - co_0063,Won,1.0,9000,9000.0,2026-06-08,2026-10-05,2026-09-08,,own_002
+deal_0100,lead_0057,co_0071,PSP Flow rollout - co_0071,Negotiation,0.75,6000,4500.0,2026-08-30,2026-11-12,,,own_001

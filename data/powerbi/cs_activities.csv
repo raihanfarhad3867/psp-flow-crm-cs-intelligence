@@ -1,0 +1,25 @@
+cs_activity_id,company_id,activity_date,activity_type,notes,owner_id
+cs_0001,co_0063,2026-07-15,Training,Synthetic customer-success activity for portfolio demo.,own_004
+cs_0002,co_0080,2026-07-20,Escalation follow-up,Synthetic customer-success activity for portfolio demo.,own_003
+cs_0003,co_0049,2026-07-28,Health review,Synthetic customer-success activity for portfolio demo.,own_004
+cs_0004,co_0001,2026-07-31,Renewal check,Synthetic customer-success activity for portfolio demo.,own_003
+cs_0005,co_0060,2026-06-20,QBR,Synthetic customer-success activity for portfolio demo.,own_003
+cs_0006,co_0056,2026-07-14,Training,Synthetic customer-success activity for portfolio demo.,own_004
+cs_0007,co_0065,2026-07-17,Renewal check,Synthetic customer-success activity for portfolio demo.,own_003
+cs_0008,co_0077,2026-07-13,QBR,Synthetic customer-success activity for portfolio demo.,own_003
+cs_0009,co_0049,2026-08-17,QBR,Synthetic customer-success activity for portfolio demo.,own_004
+cs_0010,co_0018,2026-09-02,Escalation follow-up,Synthetic customer-success activity for portfolio demo.,own_004
+cs_0011,co_0033,2026-08-24,Escalation follow-up,Synthetic customer-success activity for portfolio demo.,own_004
+cs_0012,co_0014,2026-08-15,Training,Synthetic customer-success activity for portfolio demo.,own_004
+cs_0013,co_0047,2026-09-03,Health review,Synthetic customer-success activity for portfolio demo.,own_004
+cs_0014,co_0047,2026-07-19,Training,Synthetic customer-success activity for portfolio demo.,own_003
+cs_0015,co_0001,2026-06-24,Renewal check,Synthetic customer-success activity for portfolio demo.,own_003
+cs_0016,co_0074,2026-08-30,Health review,Synthetic customer-success activity for portfolio demo.,own_003
+cs_0017,co_0065,2026-06-22,Escalation follow-up,Synthetic customer-success activity for portfolio demo.,own_004
+cs_0018,co_0044,2026-09-03,QBR,Synthetic customer-success activity for portfolio demo.,own_004
+cs_0019,co_0043,2026-06-29,Training,Synthetic customer-success activity for portfolio demo.,own_003
+cs_0020,co_0018,2026-08-21,Escalation follow-up,Synthetic customer-success activity for portfolio demo.,own_003
+cs_0021,co_0070,2026-07-27,Renewal check,Synthetic customer-success activity for portfolio demo.,own_003
+cs_0022,co_0072,2026-08-26,Training,Synthetic customer-success activity for portfolio demo.,own_004
+cs_0023,co_0044,2026-08-30,Health review,Synthetic customer-success activity for portfolio demo.,own_003
+cs_0024,co_0063,2026-07-08,Training,Synthetic customer-success activity for portfolio demo.,own_004

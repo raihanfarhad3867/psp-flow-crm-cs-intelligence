@@ -1,0 +1,15 @@
+table_name,check_name,severity,issue_count,recommendation
+companies_raw,duplicate company_id,High,2,Use company_id as upsert key; block duplicate insertions.
+companies_raw,possible duplicate company_name,Medium,3,Add fuzzy matching review before creating a new company.
+companies_raw,missing employee_count,Low,1,Route missing firmographic fields to enrichment queue.
+companies_raw,unclean source values,Medium,25,Standardize source to a controlled picklist.
+contacts_raw,duplicate email,High,1,Use email as contact dedupe key and merge interaction history.
+contacts_raw,orphan contacts,High,1,Reject contacts that do not belong to an existing company.
+contacts_raw,missing email,Medium,1,Require email or verified phone before sales assignment.
+leads_raw,duplicate lead_id,High,1,Use idempotent lead ingestion keyed on lead_id/source id.
+leads_raw,missing contact_id,Medium,1,Create or enrich the contact before conversion to deal.
+leads_raw,invalid contact reference,High,0,Validate contact-company relationship before sync.
+leads_raw,missing first response,Medium,7,Create SLA alert for leads without a first response timestamp.
+deals_raw,invalid deal stage,High,1,Reject stages outside the approved sales lifecycle.
+deals_raw,negative deal amount,High,1,Apply non-negative amount validation before load.
+deals_raw,expected close before created date,High,1,Block invalid date transitions in the CRM/API layer.

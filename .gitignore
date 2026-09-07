@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+.pytest_cache/
+.DS_Store
+*.db
+reports/*.log
+
+# Real CRM data and local credentials must never be published.
+data/hubspot_live.db*
+data/hubspot_exports/
+data/hubspot_*/
+reports/live_*/
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
